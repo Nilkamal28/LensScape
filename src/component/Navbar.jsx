@@ -1,9 +1,9 @@
 const Navbar =()=>{
 
     return (
-<div className="width-full h-24 flex text-white bg-yellow-500 items-center	justify-around 	">
+<div className="fixed w-full h-24 flex text-white bg-yellow-500 items-center	justify-around 	">
 
-    <div>
+    <div className="">
         <h3 className="text-green-800 font-bold text-3xl hover:text-green-200 ">LensScope</h3>
     </div>
     <ul className="flex  gap-8">
